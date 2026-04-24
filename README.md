@@ -82,19 +82,27 @@ I am here to build a legacy.
 ---
 
 ## 🌍 Connect With Me
+<p align="center">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### LinkedIn
-nul
+<a href="YOUR_X_LINK">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-### X (Twitter)
-nul
+<a href="mailto:ismarun29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### Instagram
-https://www.instagram.com/lukmancodecraft?igsh=MTlma2duZTF1a3V4bg==
+<a href="YOUR_YOUTUBE_LINK">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-
-### Youtube
-nul
+<a href="https://www.instagram.com/lukmancodecraft">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
 ### GitHub
 You're already here 😄
