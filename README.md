@@ -1,7 +1,7 @@
 # Hi, I'm Lukman 👋
 
 <h3 align="center">
-Full-Stack JavaScript Developer in Training 🚀
+Full-Stack JavaScript Developer 🚀
 </h3>
 
 <p align="center">
@@ -21,8 +21,8 @@ I am currently building my skills in:
 - JavaScript
 - Git & GitHub
 - Responsive Web Design
-- React (coming next)
-- Node.js (coming next)
+- React
+- Node.js
 
 My long-term goal is to build my own tech company:
 
@@ -35,7 +35,7 @@ A future software company focused on building digital solutions, products, and i
 ## 🎯 2026 Goals
 
 - Build 10+ real-world development projects
-- Master Frontend Development
+- Master Frontend/Backend Development
 - Become a Full-Stack JavaScript Engineer
 - Launch LUKMAN CODE CRAFT (LCC)
 - Start earning through software development
@@ -44,8 +44,6 @@ A future software company focused on building digital solutions, products, and i
 ---
 
 ## 🛠 Tech Stack
-
-### Currently Learning
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
