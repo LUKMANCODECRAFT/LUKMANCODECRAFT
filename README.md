@@ -55,6 +55,16 @@ A future software company focused on building digital solutions, products, and i
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
 ## 📈 GitHub Journey
@@ -77,6 +87,13 @@ I am here to build a legacy.
 nul
 
 ### X (Twitter)
+nul
+
+### Instagram
+https://www.instagram.com/lukmancodecraft?igsh=MTlma2duZTF1a3V4bg==
+
+
+### Youtube
 nul
 
 ### GitHub
