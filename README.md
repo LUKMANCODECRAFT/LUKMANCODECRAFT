@@ -1,27 +1,103 @@
 # Hi, I'm Lukman 👋
 
-## Full-Stack JavaScript Developer in Training
+<h3 align="center">
+Full-Stack JavaScript Developer in Training 🚀
+</h3>
 
-I am currently Skilled And Still learning web development with the goal of becoming a professional full-stack engineer and building my future company, LUKMAN CODE CRAFT (LCC).
+<p align="center">
+Building <strong>LUKMAN CODE CRAFT (LCC)</strong> | Future Software Engineer | Future Tech Founder
+</p>
 
-### Current Focus
+---
+
+## 👨‍💻 About Me
+
+I am a Software Engineering student focused on becoming a professional **Full-Stack JavaScript Developer** in 2026.
+
+I am currently building my skills in:
+
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
-- Node.js
-- React
-  
+- Responsive Web Design
+- React (coming next)
+- Node.js (coming next)
 
-### 2026 Goals
-- Build 10+ real-world projects
-- Master full-stack development
-- Launch LUKMAN CODE CRAFT (LCC)
-- Start earning through tech
+My long-term goal is to build my own tech company:
 
-### Connect With Me
-- LinkedIn: [Your LinkedIn Link]
-- GitHub: You're already here
+# LUKMAN CODE CRAFT (LCC)
+
+A future software company focused on building digital solutions, products, and impactful technology in Africa and beyond.
 
 ---
-> Building discipline. Building skill. Building legacy.
+
+## 🎯 2026 Goals
+
+- Build 10+ real-world development projects
+- Master Frontend Development
+- Become a Full-Stack JavaScript Engineer
+- Launch LUKMAN CODE CRAFT (LCC)
+- Start earning through software development
+- Build a strong developer portfolio
+
+---
+
+## 🛠 Tech Stack
+
+### Currently Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Journey
+
+> Discipline over motivation.  
+> Consistency over hype.  
+> Skill over excuses.
+
+Every project here is a step toward mastery.
+
+I am not here to just learn code.
+
+I am here to build a legacy.
+
+---
+
+## 🌍 Connect With Me
+
+### LinkedIn
+nul
+
+### X (Twitter)
+nul
+
+### GitHub
+You're already here 😄
+
+---
+
+## 📌 (More projects coming soon...)
+
+---
+
+# ⚡ Personal Motto
+
+### Building Discipline.  
+### Building Skill.  
+### Building Legacy.
+
+---
+
+<p align="center">
+Thank you for visiting my profile 🤝
+</p>
