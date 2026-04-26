@@ -32,6 +32,18 @@ A future software company focused on building digital solutions, products, and i
 
 ---
 
+## 🏆 Certifications
+
+[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-green?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/lukmancodecraft/responsive-web-design-v9)
+
+[![JavaScript Algorithms](https://img.shields.io/badge/JavaScript_Algorithms-freeCodeCamp-green?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/lukmancodecraft/javascript-v9)
+
+[![Python Certification](https://img.shields.io/badge/Python_Certification-freeCodeCamp-green?style=for-the-badge&logo=python)](https://www.freecodecamp.org/certification/lukmancodecraft/python-v9)
+
+[![English A2](https://img.shields.io/badge/English_A2-Certificate-blue?style=for-the-badge)](https://www.freecodecamp.org/certification/lukmancodecraft/a2-english-for-developers)
+
+---
+
 ## 🎯 2026 Goals
 
 - Build 10+ real-world development projects
