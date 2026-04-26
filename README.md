@@ -19,6 +19,7 @@ I am currently building my skills in:
 - HTML
 - CSS
 - JavaScript
+- Python
 - Git & GitHub
 - Responsive Web Design
 - React
