@@ -109,7 +109,12 @@ You're already here 😄
 
 ---
 
-## 📌 (More projects coming soon...)
+## 📌 Projects
+
+### 1 — Personal Portfolio
+### 2 — TO-DO List (Task Master)
+
+(More projects coming soon...)
 
 ---
 
