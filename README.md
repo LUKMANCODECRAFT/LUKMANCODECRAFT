@@ -10,7 +10,7 @@ Architecting Data-Persistent Infrastructure | Asynchronous Network Telemetry Too
 
 ---
 
-## 👨‍💻 Core Profile & Executive Mission
+## Core Profile & Executive Mission
 
 I engineer high-performance, lightweight software configurations designed to maximize systemic efficiency, optimize network latency, and calculate real-time financial transactional data. Through **Lukman CodeCraft (LCC)**, I build production-ready digital tools engineered to eliminate infrastructural bottlenecks.
 
