@@ -1,18 +1,18 @@
 # Lukman CodeCraft (LCC) | Software Automation Engine
 
 <h3 align="center">
-Principal Automation Engineer & Founder at LCC
+Full-Stack Software & Automation Engineer | Founder, Lukman CodeCraft
 </h3>
 
 <p align="center">
-Architecting Data-Persistent Infrastructure | Asynchronous Network Telemetry Tools | Revenue-Driven Web Assets
+Building high-performance web applications, real-time tools, and automation systems.
 </p>
 
 ---
 
 ## Core Profile & Executive Mission
 
-I engineer high-performance, lightweight software configurations designed to maximize systemic efficiency, optimize network latency, and calculate real-time financial transactional data. Through **Lukman CodeCraft (LCC)**, I build production-ready digital tools engineered to eliminate infrastructural bottlenecks.
+build fast, reliable web applications and automation engines using JavaScript, Node.js, and modern APIs. Focused on eliminating manual bottlenecks, monitoring live data systems, and creating clean digital products that solve real business problems.
 
 ---
 
