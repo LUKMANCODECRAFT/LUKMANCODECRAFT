@@ -1,91 +1,90 @@
-Lukman Codecraft (LCC)
+"> LUKMAN CODECRAFT"
 
 Building Digital Solutions That Work.
 
-I'm a software developer focused on building practical, reliable, and user-friendly digital solutions. Through Lukman Codecraft, I develop web applications, backend systems, APIs, and automation tools that help businesses solve problems and work more efficiently.
+<p align="center">
+  <strong>WEB DEVELOPMENT · CUSTOM SOFTWARE · BUSINESS AUTOMATION</strong>
+</p><p align="center">
+  <a href="https://github.com/lukmancodecraft">
+    <img src="https://img.shields.io/badge/GitHub-LukmanCodecraft-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>---
 
-My approach combines clean code, thoughtful design, and practical problem-solving to turn ideas into working software.
+"01" — About Me
 
-What I Build
+I'm a software developer building practical, reliable, and user-friendly digital solutions.
 
-- Web Applications — Responsive applications designed around real business needs.
-- Backend Systems & APIs — Server-side applications, data management, and API integrations.
-- Business Automation — Tools that reduce repetitive tasks and simplify workflows.
-- Custom Software — Solutions tailored to specific operational challenges.
-- Performance & Reliability Tools — Applications that help monitor system performance and improve visibility.
+Through Lukman Codecraft (LCC), I focus on turning ideas and business challenges into working software — from responsive web applications to backend systems, APIs, and automation tools.
 
-Tech Stack
+const lukmanCodecraft = {
+  focus: [
+    "Web Applications",
+    "Backend Development",
+    "API Integration",
+    "Business Automation"
+  ],
+  languages: ["JavaScript", "Python", "TypeScript"],
+  mission: "Build digital solutions that work."
+};
 
-Languages
+"02" — What I Build
 
-- JavaScript
-- Python
-- TypeScript
+Area| What it delivers
+Web Applications| Responsive, user-friendly business tools
+Backend & APIs| Data processing, application logic, and integrations
+Business Automation| Less repetitive work and simpler workflows
+Custom Software| Solutions designed around specific business needs
+Monitoring Tools| Dashboards for performance and system visibility
 
-Frontend
+"03" — Tech Stack
 
-- HTML5
-- CSS3
-- Responsive web development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>"04" — Featured Projects
 
-Backend & Data
+⚡ LCC Performance Shield
 
-- Node.js
-- REST APIs
-- SQL and database integration
+A web-based monitoring dashboard designed to display network latency, recent results, and system status.
 
-Tools & Practices
+- Built with: JavaScript
+- Live Demo: "Launch Dashboard" (https://lukmancodecraft.github.io/lcc-performance-shield/)
+- Repository: "View Source Code" (https://github.com/LUKMANCODECRAFT/lcc-performance-shield)
 
-- Git and GitHub
-- Automated testing
-- API testing and debugging
-- Deployment and production troubleshooting
-
-This list reflects my working toolkit; individual projects use the technologies appropriate to their requirements.
-
-Featured Projects
-
-1. LCC Performance Shield
-
-A web-based performance monitoring dashboard designed to present network latency, recent results, and system status in one place.
-
-- Focus: Performance visibility and monitoring dashboards
-- Technology: JavaScript
-- Live Demo: https://lukmancodecraft.github.io/lcc-performance-shield/
-- Source Code: https://github.com/LUKMANCODECRAFT/lcc-performance-shield
-
-2. LCC Campaign Engine
+◈ LCC Campaign Engine
 
 A campaign and marketing-copy tool for organizing copy variations and previewing campaign content.
 
-- Focus: Marketing workflow and content organization
-- Technology: JavaScript
-- Source Code: https://github.com/LUKMANCODECRAFT/lcc-campaign-engine
+- Built with: JavaScript
+- Repository: "View Source Code" (https://github.com/LUKMANCODECRAFT/lcc-campaign-engine)
 
-How I Approach Development
+"05" — Development Principles
 
-My development process emphasizes:
+- Problem first: Understand the need before writing code.
+- Clean architecture: Build software that is easier to maintain.
+- Security awareness: Validate inputs and protect sensitive data.
+- Testing: Verify expected behavior and important failure cases.
+- Usability: Design for real users and different screen sizes.
+- Continuous improvement: Refine software through testing and feedback.
 
-- Problem-first thinking: Understand the problem before choosing a solution.
-- Maintainable code: Keep code organized and easier to extend.
-- Security awareness: Validate inputs, protect credentials, and enforce appropriate access controls.
-- Testing: Check expected behavior and important failure cases.
-- Usability: Build interfaces that are understandable and work across screen sizes.
-- Continuous improvement: Learn from feedback, testing, and real-world usage.
+"06" — Let's Build Something
 
-What I'm Working Toward
+Have a business challenge, a software idea, or a repetitive process that could be improved with technology?
 
-I'm growing Lukman Codecraft into a software development business that delivers useful digital products and custom solutions for businesses.
+Lukman Codecraft is ready to explore a practical solution with you.
 
-My current focus is building a strong portfolio, solving real operational problems, and developing software that creates measurable value for its users.
-
-Work With Lukman Codecraft
-
-Have a business challenge, a web application idea, or a process that could be improved with software?
-
-Let's discuss the problem and explore a practical solution.
-
-- GitHub: https://github.com/lukmancodecraft
-- Services: Web development · Custom software · APIs · Business automation
-
-Your vision. Our code.
+<p align="center">
+  <a href="https://github.com/lukmancodecraft">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00D9FF?style=for-the-badge&logo=github&logoColor=111111" alt="Explore my work"/>
+  </a>
+</p><p align="center">
+  <strong>Your vision. Our code.</strong>
+</p>
