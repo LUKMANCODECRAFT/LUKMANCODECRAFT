@@ -1,4 +1,4 @@
-LUKMAN CODECRAFT
+LUKMAN CODE CRAFT
 
 <p align="center">
   <strong>Building Digital Solutions That Work.</strong>
@@ -10,7 +10,7 @@ LUKMAN CODECRAFT
   </a>
   <img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript Developer"/>
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation"/>
-</p>---
+</p>
 
 About Me
 
@@ -20,8 +20,6 @@ Through Lukman Codecraft (LCC), I turn ideas and business challenges into workin
 
 My goal is simple: build software that solves real problems and creates value.
 
----
-
 What I Build
 
 - Web Applications — Responsive applications designed around real business needs.
@@ -29,8 +27,6 @@ What I Build
 - Business Automation — Tools that simplify workflows and reduce repetitive tasks.
 - Custom Software — Practical solutions tailored to specific requirements.
 - Monitoring Dashboards — Tools for viewing system performance and operational status.
-
----
 
 Tech Stack
 
@@ -42,7 +38,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>---
+</p>
 
 Featured Projects
 
@@ -59,8 +55,6 @@ A campaign tool for organizing marketing-copy variations and previewing campaign
 
 - Source Code: "GitHub Repository" (https://github.com/LUKMANCODECRAFT/lcc-campaign-engine)
 
----
-
 My Development Principles
 
 - Problem-solving: Understand the problem before building the solution.
@@ -69,8 +63,6 @@ My Development Principles
 - Testing: Check expected behavior and important failure cases.
 - Usability: Build interfaces that work across devices and screen sizes.
 - Continuous improvement: Refine solutions through testing and feedback.
-
----
 
 Let's Build Something
 
